@@ -1,0 +1,15 @@
+{
+  "name": "faosalesserver",
+  "version": "1.0.0",
+  "description": "API RESTFul to inform FAO Sales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Roldan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
